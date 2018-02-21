@@ -11,6 +11,26 @@
 
   \;
 
+  <section|\<#5B9E\>\<#6570\>>
+
+  <section|\<#6570\>\<#5217\>\<#7406\>\<#8BBA\>>
+
+  <section|\<#51FD\>\<#6570\>\<#7684\>\<#6982\>\<#5FF5\>>
+
+  <section|\<#51FD\>\<#6570\>\<#7684\>\<#56FE\>\<#8C61\>\<#8868\>\<#793A\>\<#6CD5\>>
+
+  <section|\<#51FD\>\<#6570\>\<#7684\>\<#6781\>\<#9650\>>
+
+  <section|\<#7B26\>\<#53F7\><math|O>>
+
+  <section|\<#51FD\>\<#6570\>\<#7684\>\<#8FDE\>\<#7EED\>\<#6027\>>
+
+  <section|\<#53CD\>\<#51FD\>\<#6570\>\<#3001\>\<#7528\>\<#53C2\>\<#6570\>\<#5F62\>\<#5F0F\>\<#8868\>\<#793A\>\<#7684\>\<#51FD\>\<#6570\>>
+
+  <section|\<#51FD\>\<#6570\>\<#7684\>\<#4E00\>\<#81F4\>\<#8FDE\>\<#7EED\>\<#6027\>>
+
+  <section|\<#51FD\>\<#6570\>\<#65B9\>\<#7A0B\>>
+
   <chapter|\<#4E00\>\<#5143\>\<#51FD\>\<#6570\>\<#5FAE\>\<#5206\>\<#5B66\>>
 
   \;
@@ -118,6 +138,16 @@
 <\references>
   <\collection>
     <associate|auto-1|<tuple|1|?>>
-    <associate|auto-2|<tuple|2|?>>
+    <associate|auto-10|<tuple|1.9|?>>
+    <associate|auto-11|<tuple|1.10|?>>
+    <associate|auto-12|<tuple|2|?>>
+    <associate|auto-2|<tuple|1.1|?>>
+    <associate|auto-3|<tuple|1.2|?>>
+    <associate|auto-4|<tuple|1.3|?>>
+    <associate|auto-5|<tuple|1.4|?>>
+    <associate|auto-6|<tuple|1.5|?>>
+    <associate|auto-7|<tuple|1.6|?>>
+    <associate|auto-8|<tuple|1.7|?>>
+    <associate|auto-9|<tuple|1.8|?>>
   </collection>
 </references>
