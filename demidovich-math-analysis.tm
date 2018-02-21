@@ -33,6 +33,18 @@
 
   <chapter|\<#4E00\>\<#5143\>\<#51FD\>\<#6570\>\<#5FAE\>\<#5206\>\<#5B66\>>
 
+  <section|\<#663E\>\<#51FD\>\<#6570\>\<#7684\>\<#5BFC\>\<#6570\>>
+
+  <section|\<#53CD\>\<#51FD\>\<#6570\>\<#7684\>\<#5BFC\>\<#6570\>\<#3001\>\<#7528\>\<#53C2\>\<#6570\>\<#5F62\>\<#5F0F\>\<#7ED9\>\<#51FA\>\<#7684\>\<#51FD\>\<#6570\>\<#7684\>\<#5BFC\>\<#6570\>\<#3001\>\<#9690\>\<#51FD\>\<#6570\>\<#7684\>\<#5BFC\>\<#6570\>>
+
+  <section|\<#5BFC\>\<#6570\>\<#7684\>\<#51E0\>\<#4F55\>\<#610F\>\<#4E49\>>
+
+  <section|\<#51FD\>\<#6570\>\<#7684\>\<#5FAE\>\<#5206\>>
+
+  <section|\<#9AD8\>\<#9636\>\<#7684\>\<#5BFC\>\<#6570\>\<#548C\>\<#5FAE\>\<#5206\>>
+
+  <section|\<#7F57\>\<#5C14\>\<#5B9A\>\<#7406\>\<#3001\>\<#62C9\>\<#683C\>\<#6717\>\<#65E5\>\<#5B9A\>\<#7406\>\<#548C\>\<#67EF\>\<#897F\>\<#5B9A\>\<#7406\>>
+
   \;
 
   1246.2 \<#8BBE\><math|f<around*|(|x|)>\<in\>C<rsup|<around*|(|2|)>><around*|(|-\<infty\>,+\<infty\>|)>>\<#FF0C\>\<#4E14\>\<#5BF9\>\<#4E8E\>\<#4EFB\>\<#4F55\>
@@ -127,6 +139,26 @@
   </equation*>
 
   \<#7531\>\<#6B64\>\<#7ED3\>\<#8BBA\>\<#6613\>\<#8BC1\>.
+
+  \;
+
+  <section|\<#589E\>\<#51FD\>\<#6570\>\<#4E0E\>\<#51CF\>\<#51FD\>\<#6570\>\<#3001\>\<#4E0D\>\<#7B49\>\<#5F0F\>>
+
+  <section|\<#51F9\>\<#51F8\>\<#6027\>\<#3001\>\<#62D0\>\<#70B9\>>
+
+  <section|\<#4E0D\>\<#5B9A\>\<#5F0F\>\<#7684\>\<#6C42\>\<#503C\>\<#6CD5\>>
+
+  <section|\<#6CF0\>\<#52D2\>\<#516C\>\<#5F0F\>>
+
+  <section|\<#51FD\>\<#6570\>\<#7684\>\<#6781\>\<#503C\>\<#3001\>\<#51FD\>\<#6570\>\<#7684\>\<#6700\>\<#5927\>\<#503C\>\<#548C\>\<#6700\>\<#5C0F\>\<#503C\>>
+
+  <section|\<#4F9D\>\<#636E\>\<#51FD\>\<#6570\>\<#7684\>\<#7279\>\<#5F81\>\<#70B9\>\<#4F5C\>\<#51FD\>\<#6570\>\<#56FE\>\<#50CF\>>
+
+  <section|\<#51FD\>\<#6570\>\<#7684\>\<#6781\>\<#5927\>\<#503C\>\<#4E0E\>\<#6781\>\<#5C0F\>\<#503C\>\<#95EE\>\<#9898\>>
+
+  <section|\<#66F2\>\<#7EBF\>\<#7684\>\<#76F8\>\<#5207\>\<#3001\>\<#66F2\>\<#7387\>\<#5706\>\<#3001\>\<#6E10\>\<#5C48\>\<#7EBF\>>
+
+  <section|\<#65B9\>\<#7A0B\>\<#7684\>\<#8FD1\>\<#4F3C\>\<#89E3\>\<#6CD5\>>
 </body>
 
 <\initial>
@@ -141,7 +173,22 @@
     <associate|auto-10|<tuple|1.9|?>>
     <associate|auto-11|<tuple|1.10|?>>
     <associate|auto-12|<tuple|2|?>>
+    <associate|auto-13|<tuple|2.1|?>>
+    <associate|auto-14|<tuple|2.2|?>>
+    <associate|auto-15|<tuple|2.3|?>>
+    <associate|auto-16|<tuple|2.4|?>>
+    <associate|auto-17|<tuple|2.5|?>>
+    <associate|auto-18|<tuple|2.6|?>>
+    <associate|auto-19|<tuple|2.7|?>>
     <associate|auto-2|<tuple|1.1|?>>
+    <associate|auto-20|<tuple|2.8|?>>
+    <associate|auto-21|<tuple|2.9|?>>
+    <associate|auto-22|<tuple|2.10|?>>
+    <associate|auto-23|<tuple|2.11|?>>
+    <associate|auto-24|<tuple|2.12|?>>
+    <associate|auto-25|<tuple|2.13|?>>
+    <associate|auto-26|<tuple|2.14|?>>
+    <associate|auto-27|<tuple|2.15|?>>
     <associate|auto-3|<tuple|1.2|?>>
     <associate|auto-4|<tuple|1.3|?>>
     <associate|auto-5|<tuple|1.4|?>>
@@ -151,3 +198,56 @@
     <associate|auto-9|<tuple|1.8|?>>
   </collection>
 </references>
+
+<\auxiliary>
+  <\collection>
+    <\associate|toc>
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|1<space|2spc>\<#5206\>\<#6790\>\<#5F15\>\<#8BBA\>>
+      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-1><vspace|0.5fn>
+
+      1.1<space|2spc>\<#5B9E\>\<#6570\> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-2>
+
+      1.2<space|2spc>\<#6570\>\<#5217\>\<#7406\>\<#8BBA\>
+      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-3>
+
+      1.3<space|2spc>\<#51FD\>\<#6570\>\<#7684\>\<#6982\>\<#5FF5\>
+      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-4>
+
+      1.4<space|2spc>\<#51FD\>\<#6570\>\<#7684\>\<#56FE\>\<#8C61\>\<#8868\>\<#793A\>\<#6CD5\>
+      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-5>
+
+      1.5<space|2spc>\<#51FD\>\<#6570\>\<#7684\>\<#6781\>\<#9650\>
+      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-6>
+
+      1.6<space|2spc>\<#7B26\>\<#53F7\><with|mode|<quote|math>|O>
+      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-7>
+
+      1.7<space|2spc>\<#51FD\>\<#6570\>\<#7684\>\<#8FDE\>\<#7EED\>\<#6027\>
+      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-8>
+
+      1.8<space|2spc>\<#53CD\>\<#51FD\>\<#6570\>\<#3001\>\<#7528\>\<#53C2\>\<#6570\>\<#5F62\>\<#5F0F\>\<#8868\>\<#793A\>\<#7684\>\<#51FD\>\<#6570\>
+      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-9>
+
+      1.9<space|2spc>\<#51FD\>\<#6570\>\<#7684\>\<#4E00\>\<#81F4\>\<#8FDE\>\<#7EED\>\<#6027\>
+      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-10>
+
+      1.10<space|2spc>\<#51FD\>\<#6570\>\<#65B9\>\<#7A0B\>
+      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-11>
+
+      <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|2<space|2spc>\<#4E00\>\<#5143\>\<#51FD\>\<#6570\>\<#5FAE\>\<#5206\>\<#5B66\>>
+      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-12><vspace|0.5fn>
+    </associate>
+  </collection>
+</auxiliary>
