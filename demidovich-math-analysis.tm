@@ -55,6 +55,10 @@
     <item><math|lim<rsub|n\<rightarrow\>\<infty\>><around*|(|1+x+<frac|x<rsup|2>|2!>+\<cdots\>+<frac|x<rsup|n>|n!>|)>=<with|math-font-family|rm|e><rsup|x>>
   </enumerate-alpha>
 
+  \;
+
+  612. \<#8BC1\>\<#660E\>: <math|lim<rsub|n\<rightarrow\>\<infty\>>n*sin<around*|(|2\<pi\><with|math-font-family|rm|e>n!|)>=2\<pi\>>.
+
   <section|\<#5B9E\>\<#6570\>>
 
   \;
