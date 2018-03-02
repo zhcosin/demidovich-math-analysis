@@ -11,6 +11,50 @@
 
   \;
 
+  608. \<#8BC1\>\<#660E\>\<#54E5\>\<#897F\>\<#5B9A\>\<#7406\>\<#FF1A\>
+  \<#82E5\>\<#51FD\>\<#6570\><math|f<around*|(|x|)>>\<#5B9A\>\<#4E49\>\<#4E8E\>\<#533A\>\<#95F4\><math|<around*|(|a,+\<infty\>|)>>\<#4E0A\>\<#FF0C\>\<#4E14\>\<#5728\>\<#6BCF\>\<#4E00\>\<#4E2A\>\<#6709\>\<#7A77\>\<#7684\>\<#533A\>\<#95F4\><math|<around*|(|a,b|)>>\<#5185\>\<#662F\>\<#6709\>\<#754C\>\<#7684\>\<#FF0C\>\<#5219\>
+
+  <\enumerate-alpha>
+    <item><math|lim<rsub|x\<rightarrow\>+\<infty\>><frac|f<around*|(|x|)>|x>=lim<rsub|x\<rightarrow\>+\<infty\>><around*|[|f<around*|(|x+1|)>-f<around*|(|x|)>|]>>
+
+    <item><math|lim<rsub|x\<rightarrow\>+\<infty\>><around*|[|f<around*|(|x|)>|]><rsup|<frac|1|x>>=lim<rsub|x\<rightarrow\>+\<infty\>><frac|f<around*|(|x+1|)>|f<around*|(|x|)>><around*|(|f<around*|(|x|)>\<geqslant\>c\<gtr\>0|)>
+    >.
+  </enumerate-alpha>
+
+  \<#5047\>\<#5B9A\>\<#5728\>\<#7B49\>\<#5F0F\>\<#53F3\>\<#7AEF\>\<#7684\>\<#6781\>\<#9650\>\<#90FD\>\<#5B58\>\<#5728\>\<#3002\>
+
+  609. \<#8BC1\>\<#660E\>\<#82E5\>: (1)\<#51FD\>\<#6570\><math|f<around*|(|x|)>>\<#5B9A\>\<#4E49\>\<#4E8E\>\<#57DF\><math|x\<gtr\>a>\<#5185\>\<#FF1B\>(2)\<#5728\>\<#6BCF\>\<#4E00\>\<#4E2A\>\<#6709\>\<#9650\>\<#7684\>\<#57DF\><math|a\<less\>x\<less\>b>\<#5185\>\<#662F\>\<#6709\>\<#754C\>\<#7684\>\<#FF1B\>(3)<math|lim<rsub|x\<rightarrow\>+\<infty\>><around*|[|f<around*|(|x+1|)>-f<around*|(|x|)>|]>=+\<infty\>>\<#FF08\>\<#6216\><math|-\<infty\>>\<#FF09\>\<#FF0C\>\<#5219\>
+
+  <\equation*>
+    lim<rsub|x\<rightarrow\>+\<infty\>><frac|f<around*|(|x|)>|x>=+\<infty\><around*|(|or
+    -\<infty\>|)>
+  </equation*>
+
+  \;
+
+  610. \<#8BC1\>\<#660E\>\<#FF1A\> \<#82E5\>(1)\<#51FD\>\<#6570\><math|f<around*|(|x|)>>\<#5B9A\>\<#4E49\>\<#4E8E\>\<#57DF\><math|x\<gtr\>a>\<#5185\>\<#FF1B\>(2)\<#5728\>\<#6BCF\>\<#4E00\>\<#4E2A\>\<#6709\>\<#9650\>\<#7684\>\<#57DF\><math|a\<less\>x\<less\>b>\<#5185\>\<#662F\>\<#6709\>\<#754C\>\<#7684\>\<#FF1B\>
+  (3)\<#5B58\>\<#5728\>\<#7740\>\<#6709\>\<#9650\>\<#7684\>\<#6216\>\<#65E0\>\<#7A77\>\<#7684\>\<#FF08\>\<#5E26\>\<#786E\>\<#5B9A\>\<#7B26\>\<#53F7\>\<#7684\>\<#65E0\>\<#7A77\>\<#FF09\>\<#6781\>\<#9650\>
+
+  <\equation*>
+    lim<rsub|x\<rightarrow\>+\<infty\>><frac|f<around*|(|x+1|)>-f<around*|(|x|)>|x<rsup|n>>=l
+  </equation*>
+
+  \<#5219\>
+
+  <\equation*>
+    lim<rsub|x\<rightarrow\>+\<infty\>><frac|f<around*|(|x|)>|x<rsup|n+1>>=<frac|l|n+1>
+  </equation*>
+
+  \;
+
+  611. \<#8BC1\>\<#660E\>:
+
+  <\enumerate-alpha>
+    <item><math|lim<rsub|n\<rightarrow\>\<infty\>><around*|(|1+<frac|x|n>|)><rsup|n>=<with|math-font-family|rm|e><rsup|x>>
+
+    <item><math|lim<rsub|n\<rightarrow\>\<infty\>><around*|(|1+x+<frac|x<rsup|2>|2!>+\<cdots\>+<frac|x<rsup|n>|n!>|)>=<with|math-font-family|rm|e><rsup|x>>
+  </enumerate-alpha>
+
   <section|\<#5B9E\>\<#6570\>>
 
   \;
@@ -88,6 +132,10 @@
   \<#6700\>\<#540E\>\<#4E00\>\<#4E2A\>\<#5927\>\<#4E8E\>\<#53F7\>\<#5229\>\<#7528\>\<#4E86\>\<#4E0A\>\<#4E00\>\<#9898\>\<#7684\>\<#7ED3\>\<#8BBA\>(\<#4E5F\>\<#53EF\>\<#4EE5\>\<#7531\>\<#4E8C\>\<#9879\>\<#5F0F\>\<#5B9A\>\<#7406\>\<#5F97\>\<#5230\>)\<#FF0C\>\<#4E8E\>\<#662F\>\<#7ED3\>\<#8BBA\>\<#6210\>\<#7ACB\>.
 
   <section|\<#6570\>\<#5217\>\<#7406\>\<#8BBA\>>
+
+  \;
+
+  \;
 
   <section|\<#51FD\>\<#6570\>\<#7684\>\<#6982\>\<#5FF5\>>
 
