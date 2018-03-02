@@ -59,6 +59,22 @@
 
   612. \<#8BC1\>\<#660E\>: <math|lim<rsub|n\<rightarrow\>\<infty\>>n*sin<around*|(|2\<pi\><with|math-font-family|rm|e>n!|)>=2\<pi\>>.
 
+  640. \<#4E3A\>\<#4E86\>\<#6C42\>\<#5F00\>\<#666E\>\<#52D2\>\<#65B9\>\<#7A0B\>
+
+  <\equation*>
+    x-\<varepsilon\>sin x=m<space|1spc><around*|(|0\<less\>\<varepsilon\>\<less\>1|)>
+  </equation*>
+
+  \<#7684\>\<#8FD1\>\<#4F3C\>\<#89E3\>\<#FF0C\>\<#5047\>\<#8BBE\>
+
+  <\equation*>
+    x<rsub|0>=m<space|1spc>x<rsub|1>=m-\<varepsilon\>sin
+    x<rsub|0>,\<ldots\>,x<rsub|n+1>=m+\<varepsilon\>sin x<rsub|n>,\<ldots\>
+  </equation*>
+
+  \<#79F0\>\<#4E3A\>\<#9010\>\<#6B21\>\<#903C\>\<#8FD1\>\<#6CD5\>\<#FF0C\>\<#8BC1\>\<#660E\>:
+  \<#6709\><math|\<xi\>=lim<rsub|n\<rightarrow\>\<infty\>>x<rsub|n>>\<#FF0C\>\<#4E14\>\<#6570\><math|\<xi\>>\<#4E3A\>\<#5F00\>\<#666E\>\<#52D2\>\<#65B9\>\<#7A0B\>\<#7684\>\<#6839\>.
+
   <section|\<#5B9E\>\<#6570\>>
 
   \;
