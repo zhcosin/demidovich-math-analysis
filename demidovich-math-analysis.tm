@@ -7,6 +7,10 @@
     zhcosin@163.com
   </author-affiliation>>>>
 
+  <\table-of-contents|toc>
+    \;
+  </table-of-contents>
+
   <chapter|\<#5206\>\<#6790\>\<#5F15\>\<#8BBA\>>
 
   \;
@@ -174,6 +178,59 @@
   <section|\<#51FD\>\<#6570\>\<#65B9\>\<#7A0B\>>
 
   <chapter|\<#4E00\>\<#5143\>\<#51FD\>\<#6570\>\<#5FAE\>\<#5206\>\<#5B66\>>
+
+  1024. \<#5BFC\>\<#51FA\>\<#6C42\>\<#548C\>\<#516C\>\<#5F0F\>
+
+  (1).
+
+  <\eqnarray*>
+    <tformat|<table|<row|<cell|P<rsub|n>>|<cell|=>|<cell|1+2x+3x<rsup|2>+\<cdots\>+n*x<rsup|n-1>>>|<row|<cell|Q<rsub|n>>|<cell|=>|<cell|1<rsup|2>+2<rsup|2>x+3<rsup|2>x<rsup|2>+\<cdots\>+n<rsup|2>x<rsup|n-1>>>>>
+  </eqnarray*>
+
+  \<#FF08\>2\<#FF09\>.
+
+  <\eqnarray*>
+    <tformat|<table|<row|<cell|S<rsub|n>>|<cell|=>|<cell|sin x+sin
+    2x+\<cdots\>+sin n*x>>|<row|<cell|T<rsub|n>>|<cell|=>|<cell|cos x+2cos
+    2x+\<cdots\>+n*cos n*x>>>>
+  </eqnarray*>
+
+  \<#89E3\>: (1) \<#8FD9\>\<#4E24\>\<#4E2A\>\<#6C42\>\<#548C\>\<#90FD\>\<#53EF\>\<#4EE5\>\<#5229\>\<#7528\>\<#9519\>\<#4F4D\>\<#76F8\>\<#51CF\>\<#7684\>\<#65B9\>\<#6CD5\>\<#6C42\>\<#51FA\>\<#FF0C\>\<#8FD9\>\<#91CC\>\<#5229\>\<#7528\>\<#5FAE\>\<#5206\>\<#65B9\>\<#6CD5\>\<#89E3\>\<#51B3\>\<#FF0C\>\<#5728\>\<#7B49\>\<#5F0F\>
+
+  <\equation*>
+    x+x<rsup|2>+\<cdots\>+x<rsup|n>=<frac|x-x<rsup|n+1>|1-x>
+  </equation*>
+
+  \<#4E24\>\<#8FB9\>\<#5BF9\><math|x>\<#6C42\>\<#5BFC\>\<#5373\>\<#5F97\>
+
+  <\equation*>
+    P<rsub|n>=1+2x+3x<rsup|2>+\<cdots\>+n*x<rsup|n-1>=<frac|<around*|(|1-<around*|(|n+1|)>x<rsup|n>|)><around*|(|1-x|)>+<around*|(|x-x<rsup|n+1>|)>|<around*|(|1-x|)><rsup|2>>=<frac|1-<around*|(|n+1|)>x<rsup|n>+n*x<rsup|n+1>|<around*|(|1-x|)><rsup|2>>
+  </equation*>
+
+  \<#518D\>\<#5BF9\><math|P<rsub|n>>\<#5BF9\><math|x>\<#6C42\>\<#5BFC\>\<#5F97\>
+
+  <\equation*>
+    2\<times\>1+3\<times\>2x+\<cdots\>+n<around*|(|n-1|)>x<rsup|n-2>=<frac|-n<around*|(|n-1|)>x<rsup|n+1>+2<around*|(|n+1|)><around*|(|n-1|)>x<rsup|n>-n<around*|(|n+1|)>x<rsup|n-1>+2|<around*|(|1-x|)><rsup|3>>
+  </equation*>
+
+  (2).
+
+  <\eqnarray*>
+    <tformat|<table|<row|<cell|<big|sum><rsub|m=1><rsup|n>sin
+    m*x>|<cell|=>|<cell|<frac|1|2sin<frac|x|2>><big|sum><rsub|m=1><rsup|n>2sin
+    m*x sin<frac|x|2>>>|<row|<cell|>|<cell|=>|<cell|<frac|1|2cos<frac|x|2>><big|sum><rsub|m=1><rsup|n><around*|(|cos<around*|(|m-<frac|1|2>|)>x-cos<around*|(|m+<frac|1|2>|)>x|)>>>|<row|<cell|>|<cell|=>|<cell|<frac|cos<frac|x|2>-cos<around*|(|n+<frac|1|2>|)>x|2cos<frac|x|2>>>>>>
+  </eqnarray*>
+
+  \<#8FD9\>\<#5C31\>\<#662F\><math|S<rsub|n>>\<#8868\>\<#8FBE\>\<#5F0F\>\<#FF0C\>\<#518D\>\<#5BF9\><math|x>\<#6C42\>\<#5BFC\>\<#5373\>\<#5F97\>
+
+  <\equation*>
+    T<rsub|n>=<frac|2n*cos<frac|x|2>sin<around*|(|n+<frac|1|2>|)>x+sin
+    n*x|4cos<rsup|2><frac|x|2>>
+  </equation*>
+
+  \;
+
+  \;
 
   <section|\<#663E\>\<#51FD\>\<#6570\>\<#7684\>\<#5BFC\>\<#6570\>>
 
